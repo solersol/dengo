@@ -2,11 +2,11 @@
 
 // const Roadmap5 = () => {
 //   const cards = [
-//     { title: "DEX PREPAID", text: "We are so confident of our project we will prepay before KOFH", link: "https://x.com/dengosolana" },
+//     { title: "DEX PREPAID", text: "We are so confident of our project we will prepay before KOFH", link: "https://x.com/DENGOonSOL" },
 //     { title: "BUMP IT", text: "1SOL Will be deposited every 20 mins into the bump it bot to stay in the front page", link: "https://t.me/DENGOmeme" },
-//     { title: "ALPHA GROUPS", text: "Paid influencers from X/Telegram", link: "https://x.com/dengosolana" },
+//     { title: "ALPHA GROUPS", text: "Paid influencers from X/Telegram", link: "https://x.com/DENGOonSOL" },
 //     { title: "TOKEN BURNS", text: "Our team will only hold 2.5% of the total supply after we burn the rest", link: "https://t.me/DENGOmeme" },
-//     { title: "MOONTOK", text: "DEX Listing from the moment we go live on Raydium", link: "https://x.com/dengosolana" },
+//     { title: "MOONTOK", text: "DEX Listing from the moment we go live on Raydium", link: "https://x.com/DENGOonSOL" },
 //     { title: "MORE TO BE REVEALED", text: "We will reveal PhaseII once we are at over 500k mcap", link: "https://t.me/DENGOmeme" }
 //   ];
 
@@ -97,11 +97,11 @@ import React, { useEffect, useRef } from 'react';
 
 const Roadmap5 = () => {
   const cards = [
-    { title: "DEX PREPAID", text: "We are so confident of our project we will prepay before KOFH", link: "https://x.com/dengosolana" },
+    { title: "DEX PREPAID", text: "We are so confident of our project we will prepay before KOFH", link: "https://x.com/DENGOonSOL" },
     { title: "BUMP IT", text: "1SOL Will be deposited every 20 mins into the bump it bot to stay in the front page", link: "https://t.me/DENGOmeme" },
-    { title: "ALPHA GROUPS", text: "Paid influencers from X/Telegram", link: "https://x.com/dengosolana" },
+    { title: "ALPHA GROUPS", text: "Paid influencers from X/Telegram", link: "https://x.com/DENGOonSOL" },
     { title: "TOKEN BURNS", text: "Our team will only hold 2.5% of the total supply after we burn the rest", link: "https://t.me/DENGOmeme" },
-    { title: "MOONTOK", text: "DEX Listing from the moment we go live on Raydium", link: "https://x.com/dengosolana" },
+    { title: "MOONTOK", text: "DEX Listing from the moment we go live on Raydium", link: "https://x.com/DENGOonSOL" },
     { title: "MORE TO BE REVEALED", text: "We will reveal PhaseII once we are at over 500k mcap", link: "https://t.me/DENGOmeme" }
   ];
 

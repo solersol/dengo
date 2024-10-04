@@ -203,7 +203,7 @@ const Hero3 = () => {
         <div className="flex space-x-8">
           {/* First Button */}
           <a
-            href="https://x.com/dengosolana"
+            href="https://x.com/DENGOonSOL"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-blue-400 to-purple-600 p-6 rounded-full border-4 border-black hover:scale-105 transform transition-all shadow-xl"
