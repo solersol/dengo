@@ -158,7 +158,7 @@ import { logoMain, diamondImage, cardImage1, img1, img2 } from '../assets/images
 import Separator from "../components/Separator";
 
 const Hero3 = () => {
-  const contractAddress = ''; // Replace with the actual contract address
+  const contractAddress = 'LAUNCHING SOON'; // Replace with the actual contract address
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(contractAddress);
@@ -172,12 +172,12 @@ const Hero3 = () => {
         
         {/* Contract Address Bar */}
         <div className="w-full flex flex-col items-center">
-          <div className="bg-gradient-to-r from-yellow-400 to-orange-500 p-6 rounded-full shadow-lg border-4 border-black flex items-center space-x-3">
+          <div className=" p-6 rounded-full shadow-lg border-4 border-black flex items-center space-x-3">
             <input
               type="text"
               value={contractAddress}
               readOnly
-              className="w-full bg-yellow-300 text-black text-lg font-bold px-4 py-2 rounded-full outline-none shadow-inner"
+              className="w-full bg-transparent text-black text-lg font-bold px-4 py-2 rounded-full outline-none shadow-inner"
             />
             <button
               onClick={copyToClipboard}
