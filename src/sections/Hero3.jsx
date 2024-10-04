@@ -158,7 +158,7 @@ import { logoMain, diamondImage, cardImage1, img1, img2 } from '../assets/images
 import Separator from "../components/Separator";
 
 const Hero3 = () => {
-  const contractAddress = '2xfVgx5s1FG6fh1wJJrojCvWtQo5e7PSA57ciypupump'; // Replace with the actual contract address
+  const contractAddress = ''; // Replace with the actual contract address
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(contractAddress);
@@ -190,7 +190,7 @@ const Hero3 = () => {
 
         {/* Pump.fun Button */}
         <a
-          href="https://pump.fun/2xfVgx5s1FG6fh1wJJrojCvWtQo5e7PSA57ciypupump"
+          href="https://pump.fun/"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-gradient-to-br from-green-400 to-blue-500 text-white border-4 border-black px-12 py-6 rounded-full shadow-xl transform transition-transform hover:scale-110 flex items-center justify-center"
@@ -203,7 +203,7 @@ const Hero3 = () => {
         <div className="flex space-x-8">
           {/* First Button */}
           <a
-            href="https://x.com/cwttysol"
+            href="https://x.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-blue-400 to-purple-600 p-6 rounded-full border-4 border-black hover:scale-105 transform transition-all shadow-xl"
@@ -213,7 +213,7 @@ const Hero3 = () => {
 
           {/* Second Button */}
           <a
-            href="https://t.me/CWTTYsol"
+            href="https://t.me/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-red-400 to-yellow-500 p-6 rounded-full border-4 border-black hover:scale-105 transform transition-all shadow-xl"
