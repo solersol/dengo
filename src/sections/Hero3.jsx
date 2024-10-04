@@ -47,7 +47,7 @@
 //         <div className="flex space-x-12">
 //           {/* First Button */}
 //           <a
-//             href="https://t.me/dengosolCWTTYsol"
+//             href="https://t.me/DENGOmemeCWTTYsol"
 //             target="_blank"
 //             rel="noopener noreferrer"
 //             className="bg-blue-500 p-8 rounded-xl border-4 border-black hover:bg-blue-700 transition-transform transform hover:scale-110 flex justify-center items-center"
@@ -124,7 +124,7 @@
 //         <div className="flex space-x-8">
 //           {/* First Button */}
 //           <a
-//             href="https://t.me/dengosolCWTTYsol"
+//             href="https://t.me/DENGOmemeCWTTYsol"
 //             target="_blank"
 //             rel="noopener noreferrer"
 //             className="bg-gradient-to-r from-blue-400 to-purple-600 p-6 rounded-full border-4 border-black hover:scale-105 transform transition-all shadow-xl"
@@ -213,7 +213,7 @@ const Hero3 = () => {
 
           {/* Second Button */}
           <a
-            href="https://t.me/dengosol"
+            href="https://t.me/DENGOmeme"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-red-400 to-yellow-500 p-6 rounded-full border-4 border-black hover:scale-105 transform transition-all shadow-xl"
